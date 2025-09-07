@@ -1,7 +1,7 @@
 pyjwt
 requests
 protobuf==4.25.3
-protobuf-decoder-py
+git+https://github.com/kapetan/protobuf-decoder.git
 pycryptodome
 httpx
 urllib3
