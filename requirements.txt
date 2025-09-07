@@ -1,7 +1,7 @@
 pyjwt
 requests
-google-protobuf
-protobuf-decoder
+protobuf==4.25.3
+protobuf-decoder-py
 pycryptodome
 httpx
 urllib3
