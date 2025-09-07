@@ -1,8 +1,10 @@
-pyjwt
+google
+protobuf==3.20.3
+protobuf-decoder==0.4.0
 requests
-protobuf==4.25.3
-git+https://github.com/kapetan/protobuf-decoder.git
-pycryptodome
 httpx
-urllib3
+flask
+pycryptodome
+PyJWT
 psutil
+urllib3
