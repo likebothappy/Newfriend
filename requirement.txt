@@ -5,4 +5,4 @@ protobuf-decoder
 pycryptodome
 httpx
 urllib3
-psutil.
+psutil
